@@ -11524,6 +11524,9 @@ footer.footer .social-link:hover {
   font-weight: 300;
   font-size: 1.2rem;
 }
+.portfolio-item .appear-on-hover {
+  color: rgba(29, 128, 159, 0.0);
+}
 @media (min-width: 992px) {
   .portfolio-item {
     max-width: none;
